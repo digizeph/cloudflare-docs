@@ -1,0 +1,25 @@
+src/content/changelog/radar/2026-05-04-radar-routing-widgets.mdx
+  e75524c92c9f5b61 23-29
+src/content/release-notes/radar.yaml
+  e75524c92c9f5b61 11-13
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.2.8",
+  "base_commit_sha": "e17d2e556489efc0267401c8990a4d62f36f6962",
+  "prompts": {
+    "e75524c92c9f5b61": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_20c9d6510ffeGoERMHiuvAKu6l",
+        "model": "anthropic/claude-opus-4-7"
+      },
+      "human_author": "Mingwei Zhang",
+      "messages": [],
+      "total_additions": 10,
+      "total_deletions": 0,
+      "accepted_lines": 10,
+      "overriden_lines": 0
+    }
+  }
+}
