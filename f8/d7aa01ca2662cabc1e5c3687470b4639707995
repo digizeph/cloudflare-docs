@@ -1,0 +1,19 @@
+src/content/changelog/radar/2026-08-24-radar-aspa-validation.mdx
+  s_ac73833a2a164b::t_7635457f212650 11,13,17,26,32,38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "f8d7aa01ca2662cabc1e5c3687470b4639707995",
+  "prompts": {},
+  "sessions": {
+    "s_ac73833a2a164b": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_fcb0c94ebffeNHCzkPWvBMqakg",
+        "model": "claude-opus-5"
+      },
+      "human_author": "Mingwei Zhang <mingwei@cloudflare.com>"
+    }
+  }
+}
